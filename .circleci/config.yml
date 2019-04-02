@@ -50,4 +50,4 @@ jobs:
       # Разворачиваем приложение из образа (docker run)
       - run:
           name: Run Docker container
-          command: npm run ci:heroku:release
+          command: chmod +x ./scripts/release.sh & npm run ci:heroku:release

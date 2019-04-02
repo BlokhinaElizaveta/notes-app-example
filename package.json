@@ -1,5 +1,5 @@
 {
-  "name": "urfu-2018-example-app",
+  "name": "urfu-2018-example-app-pfpf",
   "private": true,
   "engines": {
     "node": "10"
@@ -56,7 +56,7 @@
     "rimraf": "2.6.3",
     "stylelint": "9.10.1",
     "stylelint-config-standard": "18.2.0",
-    "surge": "0.20.3",
+    "surge": "^0.20.3",
     "tslint": "5.14.0"
   }
 }
